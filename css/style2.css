@@ -549,7 +549,7 @@ button:focus,
 
 #status,
 .status-mes {
-    background-image    : url(../img/preloader.svg);
+    background-image    : url(https://uicookies.com/demo/theme/resumex/img/preloader.svg);
     background-position : center;
     background-repeat   : no-repeat;
     height              : 200px;
